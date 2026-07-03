@@ -8,14 +8,6 @@ Este repositório é um exercício de Infraestrutura como Código (IaC) utilizan
 
 A atividade foi realizada com base em uma aula de um curso de Terraform online.
 
-## Conceitos Aplicados
-
-Neste laboratório, estruturei um sistema básico do Terraform aplicando as seguintes práticas:
-- **Separação de responsabilidades:** Divisão da infraestrutura em arquivos lógicos (`main`, `variables`, `output`).
-- **Uso de Variáveis:** Definição de inputs dinâmicos através do arquivo `variables.tf` para tornar a infraestrutura reutilizável.
-- **Outputs:** Configuração de retornos esperados após a aplicação da infraestrutura (`output.tf`).
-- **Controle de Estado:** Entendimento prático de como o Terraform gerencia o ciclo de vida dos recursos através dos arquivos de `.tfstate`.
-
 ## Como visualizar
 
 Para visualizar o que foi desenvolvido, recomendo navegar pelos arquivos de configuração. Você pode focar na leitura dos seguintes arquivos principais:
