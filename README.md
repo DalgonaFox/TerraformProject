@@ -15,9 +15,3 @@ Para visualizar o que foi desenvolvido, recomendo navegar pelos arquivos de conf
 1. **[`main.tf`](https://github.com/DalgonaFox/TerraformProject/blob/main/main.tf):** Onde os recursos e provedores principais estão declarados.
 2. **[`variables.tf`](https://github.com/DalgonaFox/TerraformProject/blob/main/variables.tf):** Onde estruturei os parâmetros e tipagens de entrada.
 3. **[`output.tf`](https://github.com/DalgonaFox/TerraformProject/blob/main/output.tf):** Onde defini quais dados a infraestrutura deve devolver após o provisionamento.
-
-## Contato
-Caso tenha dúvidas ou sugestões, entre em contato:
-- Email: mila.olisantos@gmail.com
-- GitHub: [DalgonaFox](https://github.com/DalgonaFox)
-- LinkedIn: [Milena Oliveira Santos](https://www.linkedin.com/in/milena-oliveira-santos/).
